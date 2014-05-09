@@ -3,6 +3,9 @@
   "version": "0.0.1",
   "author": "Jon Wood <jon@ninjagiraffes.co.uk>",
   "description": "A simple application to keep track of your ideas.",
+  "scripts": {
+    "postinstall": "./bin/build"
+  },
   "dependencies": {
     "browserify": "~3",
     "http-server": "~0.6",
