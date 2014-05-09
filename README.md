@@ -9,7 +9,6 @@ add `node_modules/.bin` to your path, and source `.env` into your shell. Direnv 
 worth it though.
 
   npm install
-  ./bin/build
   nf start
 
 That'll start an HTTP server, Browserify, and Sass, all configured to pick up any changes
