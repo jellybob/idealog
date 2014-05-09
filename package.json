@@ -11,8 +11,10 @@
     "http-server": "~0.6",
     "reactify": "~0.13",
     "react": "~0.10",
-    "watchify": "^0.8.3",
-    "foreman": "^0.3.0",
     "node-sass-cli": "0.0.3"
+  },
+  "devDependencies": {
+    "watchy": "^0.4.4",
+    "foreman": "^0.3.0"
   }
 }

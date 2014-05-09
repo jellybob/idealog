@@ -1,10 +1,14 @@
 #!/usr/bin/env bash
 . ./.env
 
+rm -rf build
 mkdir -p build
 
 echo "Copying HTML..."
 cp src/index.html build/index.html
+
+echo "Copying images..."
+cp -r src/img build/img
 
 echo "Packaging Javascript..."
 browserify $BROWSERIFY_OPTIONS
