@@ -1,0 +1,13 @@
+# Logfile created on 2014-05-09 22:04:05 +0100 by logger.rb/41902
+I, [2014-05-09T22:04:05.114648 #586]  INFO -- : 0:  sass (3.3.7) from /home/jon/.rbenv/versions/2.1.0-preview1/lib/ruby/gems/2.1.0/specifications/sass-3.3.7.gemspec
+I, [2014-05-09T22:04:06.563365 #586]  INFO -- : 0:  thor (0.19.1) from /home/jon/.rbenv/versions/2.1.0-preview1/lib/ruby/gems/2.1.0/specifications/thor-0.19.1.gemspec
+I, [2014-05-09T22:04:07.653085 #586]  INFO -- : 0:  bourbon (3.2.1) from /home/jon/.rbenv/versions/2.1.0-preview1/lib/ruby/gems/2.1.0/specifications/bourbon-3.2.1.gemspec
+I, [2014-05-09T22:04:08.671557 #586]  INFO -- : 0:  bitters (0.9.3) from /home/jon/.rbenv/versions/2.1.0-preview1/lib/ruby/gems/2.1.0/specifications/bitters-0.9.3.gemspec
+I, [2014-05-09T22:04:09.714252 #586]  INFO -- : 0:  neat (1.6.0) from /home/jon/.rbenv/versions/2.1.0-preview1/lib/ruby/gems/2.1.0/specifications/neat-1.6.0.gemspec
+I, [2014-05-09T22:04:09.714580 #586]  INFO -- : 0:  bundler (1.5.1) from /home/jon/.rbenv/versions/2.1.0-preview1/lib/ruby/gems/2.1.0/specifications/bundler-1.5.1.gemspec
+I, [2014-05-09T22:07:11.279662 #1685]  INFO -- : 0:  sass (3.2.19) from /home/jon/.rbenv/versions/2.1.0-preview1/lib/ruby/gems/2.1.0/specifications/sass-3.2.19.gemspec
+I, [2014-05-09T22:07:11.280038 #1685]  INFO -- : 0:  thor (0.19.1) from /home/jon/.rbenv/versions/2.1.0-preview1/lib/ruby/gems/2.1.0/specifications/thor-0.19.1.gemspec
+I, [2014-05-09T22:07:11.280246 #1685]  INFO -- : 0:  bourbon (3.2.1) from /home/jon/.rbenv/versions/2.1.0-preview1/lib/ruby/gems/2.1.0/specifications/bourbon-3.2.1.gemspec
+I, [2014-05-09T22:07:11.280443 #1685]  INFO -- : 0:  bitters (0.9.3) from /home/jon/.rbenv/versions/2.1.0-preview1/lib/ruby/gems/2.1.0/specifications/bitters-0.9.3.gemspec
+I, [2014-05-09T22:07:12.327999 #1685]  INFO -- : 0:  neat (1.5.1) from /home/jon/.rbenv/versions/2.1.0-preview1/lib/ruby/gems/2.1.0/specifications/neat-1.5.1.gemspec
+I, [2014-05-09T22:07:12.328334 #1685]  INFO -- : 0:  bundler (1.5.1) from /home/jon/.rbenv/versions/2.1.0-preview1/lib/ruby/gems/2.1.0/specifications/bundler-1.5.1.gemspec

@@ -1,0 +1,13 @@
+#!/usr/bin/env bash
+. ./.env
+
+mkdir -p build
+
+echo "Copying HTML..."
+cp src/index.html build/index.html
+
+echo "Packaging Javascript..."
+browserify $BROWSERIFY_OPTIONS
+
+echo "Compiling CSS..."
+sass-cli $SASS_OPTIONS

@@ -1,0 +1,14 @@
+{
+  "name": "idealog",
+  "version": "0.0.1",
+  "author": "Jon Wood <jon@ninjagiraffes.co.uk>",
+  "description": "A simple application to keep track of your ideas.",
+  "dependencies": {
+    "browserify": "~3",
+    "http-server": "~0.6",
+    "reactify": "~0.13",
+    "react": "~0.10",
+    "watchify": "^0.8.3",
+    "foreman": "^0.3.0"
+  }
+}
