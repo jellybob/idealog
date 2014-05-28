@@ -8,10 +8,13 @@
   },
   "dependencies": {
     "browserify": "~3",
+    "fluxxor": "~1.1",
     "http-server": "~0.6",
     "reactify": "~0.13",
     "react": "~0.10",
-    "node-sass-cli": "0.0.3"
+    "node-sass-cli": "0.0.3",
+    "es6-promise": "^1.0.0",
+    "events": "^1.0.0"
   },
   "devDependencies": {
     "watchy": "^0.4.4",
