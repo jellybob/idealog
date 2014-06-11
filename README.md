@@ -14,7 +14,7 @@ nf start
 ```
 
 That'll start an HTTP server, Browserify, and Sass, all configured to pick up any changes
-you make in `src/` (TODO: Add support for syncing static assets as well)
+you make in `src/`
 
 ## Deploying
 
